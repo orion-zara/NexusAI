@@ -3,8 +3,8 @@ import { marked } from "https://cdn.jsdelivr.net/npm/marked@12.0.2/+esm";
 
 // ─── API ────────────────────────────────────────────────────────────────────
 
-const API_KEY = import { useState, useRef, useEffect, useCallback } from "react";
-import { marked } from "https://cdn.jsdelivr.net/npm/marked@12.0.2/+esm";
+
+import { marked } from "marked";
 
 // ─── API ────────────────────────────────────────────────────────────────────
 
